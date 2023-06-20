@@ -1,0 +1,28 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+tensorflow = "*"
+numpy = "*"
+pandas = "*"
+seaborn = "*"
+matplotlib = "*"
+scipy = "*"
+keras-vis = "*"
+sklearn = "*"
+keras = "*"
+pyarrow = "*"
+imbalanced-learn = "*"
+researchpy = "*"
+mlxtend = "*"
+tableone = "*"
+scikit-posthocs = "*"
+statsmodels = "*"
+bioinfokit = "*"
+
+[requires]
+python_version = "3.7"
